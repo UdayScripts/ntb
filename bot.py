@@ -38,17 +38,8 @@ Let's make your video experience even better!
         parse_mode="markdown",
         buttons=[
             [
-                Button.url(
-                    "Website Source Code", url="https://github.com/r0ld3x/terabox-app"
-                ),
-                Button.url(
-                    "Bot Source Code",
-                    url="https://github.com/r0ld3x/terabox-downloader-bot",
-                ),
-            ],
-            [
-                Button.url("Channel ", url="https://t.me/DragoXServer"),
-                Button.url("Group ", url="https://t.me/DragoXServer"),
+                Button.url("Channel ", url="https://t.me/UdayScripts"),
+               
             ],
         ],
     )
@@ -140,9 +131,7 @@ async def start_token(m: Message):
             "You haven't joined @RoldexVerse or @RoldexVerseChats yet. Please join the channel and then send me the link again.\nThank you!",
             buttons=[
                 [
-                    Button.url("RoldexVerse", url="https://t.me/DragoXServer"),
-                    Button.url("RoldexVerseChats",
-                               url="https://t.me/DragoXServer"),
+                    Button.url("UdayScripts", url="https://t.me/UdayScripts"),
                 ],
                 [
                     Button.url(
