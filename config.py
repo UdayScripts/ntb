@@ -1,22 +1,22 @@
-API_ID = 123456  # api id
-API_HASH = ""  # api hash
+API_ID = 26383754  # api id
+API_HASH = "f743596f09f383e7bbcc62ce62367f06"  # api hash
 
-BOT_TOKEN = ""  # bot token
+BOT_TOKEN = "8142385461:AAE4BVmZKEjRNkqOxXqWnnXVeUJwN1LKVhU"  # bot token
 
 
-HOST = ""  
-PORT = 1766  
-PASSWORD = ""   # redis password
+HOST = "redis-13504.c246.us-east-1-4.ec2.redns.redis-cloud.com"  
+PORT = 13504  
+PASSWORD = "VcVztgkTqwYTXamFqUETay5IBWaU5Xds"   # redis password
 
 PRIVATE_CHAT_ID =   # CHAT WHERE YOU WANT TO STORE VIDEOS
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=;
-COOKIE = "PANWEB=1; csrfToken=0W9rLLGHht0u1rzDrtWInUw9; browserid=ebfy5EY8dBUmKoXRB2o-uMjaPjlC5oMG5H6b_UqXjA0dXJyUXcC_YLouopE=; lang=en; TSID=KF3pKjn0NkXVQRheSyL7YuNMEHvxXo8P; __bid_n=1939fec84c56d044a24207; ndus=YdSMlCxteHuibExjI03RVAFAxd6CWzrItwlEs51k; ndut_fmt=2E05BB77580D8F419AF729200A1EB19B781A64B1A7B0C73F0FDEAAB7E567661A"
-ADMINS = [1543260546]
+COOKIE = "PANWEB=1; csrfToken=rsUXl7Ygsvc3IWEEIMwsb6Tg; browserid=i32JxztCQevX4mqz3rIy7-0XG7-RFas7fr3WTZqp4nkQQ9rzWuWydPmQyjk=; lang=en; TSID=uUWUUSJI4oWZntePpNXgXZzW7d2PeBVD; __bid_n=19430c9295b7592ce24207; ndut_fmt=7DB2A2867256F30DF4C200E8BADF2A554E9D541B436576B06DCEC86D2CCB5BD8"
+ADMINS = [1489381549]
 
 
-BOT_USERNAME = "TeraBoxDxSBot"
+BOT_USERNAME = "free_tbdownloaderbot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
-FORCE_LINK = "@DragoXServer"
+FORCE_LINK = "@UdayScripts"
 
-PUBLIC_EARN_API = "3f0ca8bbc3b3b764897a9d54294c8ed849c2031f"  # https://publicearn.com/api
+PUBLIC_EARN_API = "9168b68718619645b1102011c6415305a9e8d612"  # https://publicearn.com/api
